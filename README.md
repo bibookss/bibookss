@@ -22,7 +22,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/bibookss/bibookss/output/snake.svg" alt="Snake animation" />
-
-###
